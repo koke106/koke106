@@ -11,13 +11,16 @@
   <a href="https://github.com/koke106"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Hybrid%20app%20developer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 
+<h3 align="center">
 ### Full-stack & Hybrid Mobile Developer
+</h3>
 
+<p align="left">
 Developer with more than 10 years of experience in POO languages.
 I currently works as a Front-End developer in the mobility department, working with React Native, React JS, Cordova, BackBone, Marionette, BitBucket, Git y Jenkins. 
 
-As part of my personal projects, one of the last ones is an app entirely developed by me, currently available in both stores - <a href="https://play.google.com/store/apps/details?id=com.jlp.rt"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/511px-Android_robot.svg.png?20180121030125" width="30" height="30"></a> and iOS <a href="https://apps.apple.com/es/app/rallye-timer/id1610862151?l=en"><img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-what-you-need-know-before-rebranding-11.png" width="30" height="30"></a>. The technologies used have been; in the back Node.JS in the front React-Native with data base MongoDB.
-
+As part of my personal projects, one of the last ones is an app entirely developed by me, currently available in both stores - <a href="https://play.google.com/store/apps/details?id=com.jlp.rt"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/511px-Android_robot.svg.png?20180121030125" width="30" height="30"></a> and iOS <a href="https://apps.apple.com/es/app/rallye-timer/id1610862151?l=en"><img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-what-you-need-know-before-rebranding-11.png" width="30" height="30"></a>. The technologies used have been; in the back Node.JS with data base MongoDB and in the front React-Native.
+</p>
 
 ## 🔥 Streak stats
 
